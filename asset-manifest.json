@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ahmedessamelezaby/static/css/main.e6f0a5ac.css",
+    "main.js": "/ahmedessamelezaby/static/js/main.de7f5b17.js",
+    "static/js/453.014213d1.chunk.js": "/ahmedessamelezaby/static/js/453.014213d1.chunk.js",
+    "static/media/about imges.jpg": "/ahmedessamelezaby/static/media/about imges.43eaca3f713a7385603f.jpg",
+    "static/media/personal-img.png": "/ahmedessamelezaby/static/media/personal-img.4c344d6949855acdfefd.png",
+    "static/media/IMG_20230121_185911_296.jpg": "/ahmedessamelezaby/static/media/IMG_20230121_185911_296.cbc708132fb5e3568d1c.jpg",
+    "static/media/performance.png": "/ahmedessamelezaby/static/media/performance.c609b05bc4fdafca1162.png",
+    "static/media/graphic designer.png": "/ahmedessamelezaby/static/media/graphic designer.fef54f1e3c23a4488ac8.png",
+    "static/media/AHMEDELEZABY (4).png": "/ahmedessamelezaby/static/media/AHMEDELEZABY (4).87cfb75abb78b56d52b4.png",
+    "static/media/IMG_20221214_231744_868.jpg": "/ahmedessamelezaby/static/media/IMG_20221214_231744_868.dfeae6e490e40aaf39e4.jpg",
+    "static/media/تصميم بدون عنوان.jpg": "/ahmedessamelezaby/static/media/تصميم بدون عنوان.122d09b2bd0d62fbcaec.jpg",
+    "static/media/code.png": "/ahmedessamelezaby/static/media/code.a36ff4c4093d4d1fe2c4.png",
+    "static/media/Nuse hub.png": "/ahmedessamelezaby/static/media/Nuse hub.6c7d50ce154dd344fa20.png",
+    "static/media/web-design.png": "/ahmedessamelezaby/static/media/web-design.80447f74fbc9c305fdf5.png",
+    "index.html": "/ahmedessamelezaby/index.html",
+    "main.e6f0a5ac.css.map": "/ahmedessamelezaby/static/css/main.e6f0a5ac.css.map",
+    "main.de7f5b17.js.map": "/ahmedessamelezaby/static/js/main.de7f5b17.js.map",
+    "453.014213d1.chunk.js.map": "/ahmedessamelezaby/static/js/453.014213d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f0a5ac.css",
+    "static/js/main.de7f5b17.js"
+  ]
+}
